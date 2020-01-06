@@ -1,4 +1,4 @@
-.colorful {
+body {
 background:
     -webkit-linear-gradient(67deg, hsla(298.6, 91.23%, 42.44%, 1) 0%, hsla(298.6, 91.23%, 42.44%, 0) 65%),
     -webkit-linear-gradient(99deg, hsla(9.58, 98.15%, 42.93%, 1) 15%, hsla(9.58, 98.15%, 42.93%, 0) 100%);
